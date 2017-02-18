@@ -15,7 +15,7 @@ takes string and returns has as a 32 bit hex-code
 ```js
   var acm-hash = require('./acm-hash')
   var str = 'hello world'
-  console.log(acm-hash(str))
+  console.log(acm-hash(str)) // 161b1212
 ```
 
 ## License
