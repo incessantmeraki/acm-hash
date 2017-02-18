@@ -1,6 +1,6 @@
 # acm-hash
 
-takes string and returns its hash value
+takes string and returns has as a 32 bit hex-code 
 
 ## Usage
 
